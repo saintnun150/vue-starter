@@ -10,6 +10,7 @@
 ## 학습 일지
   + 환경 설정, vue.js 프로젝트 생성, vuetify layout 적용, 컴포넌트 통신(props, 이벤트 버스) - 2020.08.12
     + App.vue, Home.vue, InputArea.vue, main.js, eventBus.js
+    정리 내용 <https://tangoo91.tistory.com/> 참고
 
 
 ## 프로젝트 환경 설정
@@ -22,7 +23,8 @@ yarn install
 yarn serve
 ```
 
-## 학습 내용 
+## 개발 블로그
+<https://tangoo91.tistory.com/>
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
