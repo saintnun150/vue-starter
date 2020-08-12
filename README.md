@@ -9,7 +9,7 @@
   
 ## 학습 일지
   + 환경 설정, vue.js 프로젝트 생성, vuetify layout 적용, 컴포넌트 통신(props, 이벤트 버스) - 2020.08.12
-    ++ App.vue, Home.vue, InputArea.vue, main.js, eventBus.js
+    + App.vue, Home.vue, InputArea.vue, main.js, eventBus.js
 
 
 ## 프로젝트 환경 설정
